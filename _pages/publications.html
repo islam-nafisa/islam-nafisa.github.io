@@ -16,35 +16,37 @@ author_profile: true
 
 <div class="research-item">
   <div class="research-img">
-    <img src="path_to_image_for_thesis.jpg" alt="Thesis Image">
+    <img src="images/thesis.png" alt="Thesis Image">
   </div>
   <div class="research-text">
     <h3>1) Undergraduate Thesis: *Semantic Segmentation in Satellite Imagery: An Attentive U-Net Approach*</h3>
-    <p><strong>Abstract</strong>—Semantic segmentation is a computer vision technique that assigns a distinct class label to every pixel in an image...</p>
+    <p><strong>Abstract</strong>Semantic segmentation is a computer vision technique that assigns a distinct class label to every pixel in an image, generating a segmentation map where each pixel belongs to a specific category. This enables various applications, such as automatic and in-depth land cover and land use analysis, tracking urbanization, deforestation, road, and building detection, disaster response, traffic management, city planning, and
+ environmental monitoring. Encoder-decoder-based architectures excel in semantic segmentation tasks than traditional CNN based methods because they can extract hierarchical features, combine contextual and spatial information, and accurately reconstruct segmentation maps. In this paper, Attention U-Net,
+ where the attention mechanism is introduced to the modified version of U-Net, is implemented for semantic segmentation in satellite images. Instead of just focusing on extracting features, the proposed method emphasizes making accurate segmentation
+ output. The segmentation quality of each model was assessed using performance metrics, including accuracy, precision, recall, F1-score, and IoU score. The findings suggest that the Attention U-Net model surpasses other variations, attaining a higher IoUscore of 0.7959 and exhibiting strong segmentation abilities across
+ several land cover categories, such as water bodies, land, roads, buildings, and vegetation. Furthermore, by visual analysis of the results, it becomes apparent that the Attention U-Net is
+ remarkably proficient at accurately capturing intricate details in satellite imagery.</p>
     <p><strong>Index Terms</strong>—Satellite, Computer vision, Semantic Segmentation, Deep Learning, Attention U-Net, Intersection over Union (IoU)</p>
   </div>
 </div>
 
----
-
 <div class="research-item">
   <div class="research-img">
-    <img src="path_to_image_for_deception_research.jpg" alt="Research Image">
+    <img src="images/ai.png" alt="Research Image">
   </div>
   <div class="research-text">
-    <h3>2) Digital Deception: *AI-Generated Honeypots for Dynamic Cyber Threat Intelligence*</h3>
-    <p>This research explores the integration of generative AI with cyber deception technologies to create dynamic, adaptive honeypots...</p>
+    <h3>2) Digital Deception: *AI-Generated Honeypots for Dynamic Cyber Threat Intelligence* (Ongoing)</h3>
+    <p>This paper explores the integration of generative AI with cyber deception technologies to create dynamic, adaptive honeypots that attract and engage cyber attackers in realistic digital environments. By leveraging tools like large language models, synthetic media, and behavior simulation, the proposed system enhances threat intelligence, red-team operations, and SOC effectiveness. It also outlines a modular architecture for real-time honeypot deployment and highlights key challenges, ethical concerns, and future research directions in AI-driven cyber defense.</p>
   </div>
 </div>
 
----
 
 <!-- Conference Papers Section -->
 <h2>Conference Papers</h2>
 
 <div class="conference-item">
   <div class="conference-img">
-    <img src="path_to_image_for_conference1.jpg" alt="Conference Paper 1 Image">
+    <img src="images/icict.png" alt="Conference Paper 1 Image">
   </div>
   <div class="conference-text">
     <h3>1) *Semantic Segmentation in Satellite Imagery: An Attentive U-Net Approach*</h3>
@@ -52,36 +54,14 @@ author_profile: true
   </div>
 </div>
 
----
+
 
 <div class="conference-item">
   <div class="conference-img">
-    <img src="path_to_image_for_conference2.jpg" alt="Conference Paper 2 Image">
+    <img src="images/ecce.png" alt="Conference Paper 2 Image">
   </div>
   <div class="conference-text">
     <h3>2) *A Residual Attention U-Net Approach for High-Resolution Satellite Image Segmentation*</h3>
     <p>N. Islam, T. A. Tias, M. F. Hossain and M. A. Hossain, "A Residual Attention U-Net Approach for High-Resolution Satellite Image Segmentation," <em>2025 International Conference on Electrical, Computer and Communication Engineering (ECCE)</em>, Chittagong, Bangladesh, 2025, pp. 1-6, <a href="https://ieeexplore.ieee.org/abstract/document/11013405" target="_blank">doi: 10.1109/ECCE64574.2025.11013405</a>.</p>
   </div>
 </div>
-
----
-
-{% if site.publication_category %}
-  {% for category in site.publication_category %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
