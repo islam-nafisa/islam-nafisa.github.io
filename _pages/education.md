@@ -2,7 +2,7 @@
 layout: page
 title: "Education"
 permalink: /education/
-sidebar: false
+sidebar: true
 author_profile: true
 ---
 
