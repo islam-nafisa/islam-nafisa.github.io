@@ -1,0 +1,19 @@
+.hobby-content {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  margin-bottom: 2rem;
+  flex-wrap: wrap;
+}
+
+.hobby-image {
+  width: 200px;
+  height: auto;
+  border-radius: 10px;
+  flex-shrink: 0;
+}
+
+.hobby-text {
+  flex: 1;
+  min-width: 250px;
+}
