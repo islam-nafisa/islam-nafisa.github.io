@@ -1,8 +1,7 @@
 ---
-layout: default
+layout: archive
 title: "Education"
 permalink: /education/
-sidebar: true
 author_profile: true
 ---
 
