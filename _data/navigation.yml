@@ -18,9 +18,9 @@ main:
     url: /work/    
        
   - title: "Achievements"
-    url: /year-archive/
+    url: /achievements/
 
   - title: "WhoAmI"
-    url: /portfolio/
+    url: /hobbies/
     
 
