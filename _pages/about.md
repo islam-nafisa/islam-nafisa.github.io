@@ -63,12 +63,12 @@ I’m continuously expanding my skill set in areas like Computer vision, AI in h
   <li>
     <strong> N. Islam, M. F. Hossain and M. A. Hossain,</strong>, 
    "Semantic Segmentation in Satellite Imagery: An Attentive U-Net Approach," <em>2024 2nd International Conference on Information and Communication Technology (ICICT)</em>, Dhaka, Bangladesh, 2024, pp. 259-263, doi: 10.1109/ICICT64387.2024.10839725. 
-    <a href="https://ieeexplore.ieee.org/abstract/document/10839725" target="_blank">IEEE Xplore</a> | 
+    <a href="https://ieeexplore.ieee.org/abstract/document/10839725" target="_blank">IEEE Xplore</a> 
   </li>
   <li>
     <strong> N. Islam, T. A. Tias, M. F. Hossain and M. A. Hossain,</strong>, 
    "A Residual Attention U-Net Approach for High-Resolution Satellite Image Segmentation," <em>2025 International Conference on Electrical, Computer and Communication Engineering (ECCE)</em>, Chittagong, Bangladesh, 2025, pp. 1-6, doi: 10.1109/ECCE64574.2025.11013405.
-    <a href="https://ieeexplore.ieee.org/abstract/document/11013405" target="_blank">IEEE Xplore</a> | 
+    <a href="https://ieeexplore.ieee.org/abstract/document/11013405" target="_blank">IEEE Xplore</a>
   </li>
   <li>
     <strong>N. Islam</strong>, "Digital Deception: AI-Generated Honeypots for Dynamic Cyber Threat Intelligence" (Ongoing)
