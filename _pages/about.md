@@ -11,7 +11,7 @@ Hi, I’m Nafisa Islam, a tech enthusiast from Dhaka, Bangladesh. I completed my
 
 I’m continuously expanding my skill set in areas like Computer vision, AI in healthcare, and cybersecurity. Alongside my technical pursuits, I enjoy mentoring students, exploring creative coding projects, and engaging in community and cultural initiatives.
 
-**I’m actively seeking graduate-level research opportunities, collaborations, or remote assistantships in AI/ML**. If you’re working on something impactful, let’s connect!
+**I’m actively seeking graduate-level research opportunities, collaborations, or remote assistantships in AI/ML**. If you’re working on something impactful, let’s connect! <a href="https://drive.google.com/file/d/1fEWhZtDj2Vj_ZAeR76tL4ZFoNbEnGErr/view?usp=sharing" target="_blank">See my resume</a>. 
 
 <section id="news-updates" style="max-height: 400px; overflow-y: scroll; padding: 1rem; border: 1px solid #ccc;">
   <h2 style="text-align: center;">News and Updates</h2>
