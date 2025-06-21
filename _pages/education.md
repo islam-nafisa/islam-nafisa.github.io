@@ -5,8 +5,6 @@ permalink: /education/
 author_profile: true
 ---
 
-# Education
-
 Find below a brief overview of my academic journey (so far).
 
 ## Bachelor of Science in Electronics & Telecommunication Engineering (ETE) [2019-2024]  
