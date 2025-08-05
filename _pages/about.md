@@ -72,4 +72,8 @@ I’m continuously expanding my skill set in areas like Computer vision, AI in h
   <li>
     <strong>N. Islam</strong>, "Digital Deception: AI-Generated Honeypots for Dynamic Cyber Threat Intelligence" (Ongoing)
   </li>
+    <li>
+    <strong> N. Islam, S. Sen</strong>, 
+   "An Explainable AI Pipeline for Suicide Risk Detection and Therapeutic Response Generation" (Ongoing)
+  </li>
 </ul>
