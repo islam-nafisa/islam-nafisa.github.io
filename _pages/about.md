@@ -7,18 +7,22 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I’m Nafisa Islam, a tech enthusiast from Dhaka, Bangladesh. I completed my B.Sc. in Electronics and Telecommunication Engineering(ETE) from Chittagong University of Engineering & Technology (CUET) in September 2024, where I developed a passion for research and innovation at the intersection of Computer Vision, AI in healthcare & cybersecurity, and Geospatial Analysis. Currently, I’m working as a Tech Apprentice at IDLC Finance PLC, where I’m gaining hands-on experience in enterprise IT infrastructure, system monitoring, and software quality assurance.
+Hi, I’m Nafisa Islam. I am currently pursueing my PhD in Electrical and Computer Engineering in University of Akron, Ohio. My current research focuses on distributed computing, particularly on mitigating key challenges in distributed matrix multiplication through optimization. I completed my B.Sc. in Electronics and Telecommunication Engineering(ETE) from Chittagong University of Engineering & Technology (CUET) in September 2024, where I developed a passion for research and innovation at the intersection of Computer Vision, ML and Geospatial Analysis. I worked as a Tech Apprentice at IDLC Finance PLC, where I’m gaining hands-on experience in enterprise IT infrastructure, system monitoring, and software quality assurance.
 
-I’m continuously expanding my skill set in areas like Computer vision, AI in healthcare, and cybersecurity. Alongside my technical pursuits, I enjoy mentoring students, exploring creative coding projects, and engaging in community and cultural initiatives.
+I’m continuously expanding my skill set in areas like Distributed Computing, optimizaton, Computer vision, AI. Alongside my technical pursuits, I enjoy exploring creative coding projects, and engaging in community and cultural initiatives.
 
-**I’m actively seeking graduate-level research opportunities, collaborations, or remote assistantships in AI/ML**. If you’re working on something impactful, let’s connect! <a href="https://drive.google.com/file/d/190yb34I7V0ue0O7uV0f2_dVtQgeJCfUZ/view?usp=sharing">See my resume</a>. 
+
 <section id="news-updates" style="max-height: 400px; overflow-y: scroll; padding: 1rem; border: 1px solid #ccc;">
   <h2 style="text-align: center;">News and Updates</h2>
   <div style="display: flex; flex-direction: column; gap: 1rem;">
 
     <div style="display: flex;">
-      <div style="min-width: 120px; font-weight: bold;">May 2025:</div>
-      <div>Started research in the AI in cybersecurity domain.</div>
+      <div style="min-width: 120px; font-weight: bold;">Jan 2026:</div>
+      <div>Started my PhD in ECE in University of Akron, Ohio.</div>
+    </div>
+     <div style="display: flex;">
+      <div style="min-width: 120px; font-weight: bold;">Oct 2025:</div>
+      <div>Got PhD offer</div>
     </div>
 
     <div style="display: flex;">
@@ -70,10 +74,6 @@ I’m continuously expanding my skill set in areas like Computer vision, AI in h
     <a href="https://ieeexplore.ieee.org/abstract/document/11013405" target="_blank">IEEE Xplore</a>
   </li>
   <li>
-    <strong>N. Islam</strong>, "Digital Deception: AI-Generated Honeypots for Dynamic Cyber Threat Intelligence" (Ongoing)
-  </li>
-    <li>
-    <strong> N. Islam, S. Sen</strong>, 
-   "An Explainable AI Pipeline for Suicide Risk Detection and Therapeutic Response Generation" (Ongoing)
+    <strong>A. Das, N. Islam</strong>, "Numerically Stable Straggler-Resilient Coded Matrix Multiplication" (Submitted)
   </li>
 </ul>
