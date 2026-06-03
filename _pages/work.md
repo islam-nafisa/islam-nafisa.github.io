@@ -5,9 +5,12 @@ permalink: /work/
 author_profile: true
 ---
 
-
+## Research Assistant, Dept of ECE, University of Akron 
+**Duration**: Jan 12, 2026 - Present
+- Working under [Dr. Anindya Bijoy Das](https://anindyabijoydas.github.io/portfolio/) on mitigating key challenges in distributed matrix multiplication through optimization and coded distributed computing.
+- 
 ## Apprentice in Information Technology Department, IDLC Finance PLC  
-**Duration**: Jan 15, 2025 - Present
+**Duration**: Jan 15, 2025 - June 31, 2025
 - Worked as a full-stack developer and gained valuable hands-on experience in the fintech sector, building and maintaining software systems that enhanced business processes.
 
 
