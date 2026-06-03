@@ -6,6 +6,10 @@ author_profile: true
 ---
 
 A brief overview of my academic journey so far-
+## PhD in Electrical & Computer Engineering (ECE) [2026-Present]  
+**Department of Electrical & Computer Engineering (ECE),**  
+University of Akron,  
+Akron, Ohio, USA.  
 
 ## Bachelor of Science in Electronics & Telecommunication Engineering (ETE) [2019-2024]  
 **Department of Electronics & Telecommunication Engineering (ETE),**  
