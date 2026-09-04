@@ -15,7 +15,10 @@ I’m continuously expanding my skill set in areas like Distributed Computing, o
 <section id="news-updates" style="max-height: 400px; overflow-y: scroll; padding: 1rem; border: 1px solid #ccc;">
   <h2 style="text-align: center;">News and Updates</h2>
   <div style="display: flex; flex-direction: column; gap: 1rem;">
-
+    <div style="display: flex;">
+      <div style="min-width: 120px; font-weight: bold;">Jul 2026:</div>
+      <div>Our paper got accepted in <a href="https://2026.ieee-itw.org" target="_blank">ITW 2026</a>  </div>
+    </div>
     <div style="display: flex;">
       <div style="min-width: 120px; font-weight: bold;">Jan 2026:</div>
       <div>Started my PhD in ECE in University of Akron, Ohio.</div>
@@ -74,6 +77,6 @@ I’m continuously expanding my skill set in areas like Distributed Computing, o
     <a href="https://ieeexplore.ieee.org/abstract/document/11013405" target="_blank">IEEE Xplore</a>
   </li>
   <li>
-    <strong>A. Das, N. Islam</strong>, "Numerically Stable Straggler-Resilient Coded Matrix Multiplication" (Submitted)
+    <strong>A. Das, N. Islam</strong>, "Numerically Stable Straggler-Resilient Coded Matrix Multiplication" (Accepted at <a href="https://2026.ieee-itw.org" target="_blank">ITW 2026</a>)
   </li>
 </ul>
